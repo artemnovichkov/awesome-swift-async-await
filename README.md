@@ -21,3 +21,4 @@ A hand-curated list of Swift async/await resources
 
 ## Videos
 - [Swift 5.5: Async Await Operations (Xcode 13, iOS 15, 2021) - iOS for Beginners](https://youtu.be/_n6XnabuYO8) by iOS Academy
+- [How do you go from completionHandler to async / await? 🤔](https://youtu.be/9CI8O7iufDI) by [Vincent Pradeilles](https://twitter.com/v_pradeilles)
