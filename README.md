@@ -12,6 +12,9 @@ A hand-curated list of Swift async/await resources
 - [Bring Core Data concurrency to Swift and SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10017)
 - [Swift concurrency: Behind the scenes](https://developer.apple.com/videos/play/wwdc2021-10254)
 
+## Books
+- [Modern Concurrency in Swift](https://www.raywenderlich.com/books/modern-concurrency-in-swift) by [https://twitter.com/icanzilb](Marin Todorov)
+
 ## Articles
 - [Getting Started with async/await in SwiftUI](https://peterfriese.dev/swiftui-concurrency-essentials-part1) by [Peter Friese](https://twitter.com/peterfriese)
 - [async/await in SwiftUI](https://www.raywenderlich.com/25013447-async-await-in-swiftui) by [Audrey Tam](https://twitter.com/mataharimau)
