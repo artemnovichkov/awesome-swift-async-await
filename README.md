@@ -22,6 +22,7 @@ A hand-curated list of Swift async/await resources
 - [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await) by [Antoine van der Lee](https://twitter.com/twannl)
 - [Swift actors tutorial - a beginner's guide to thread safe concurrency](https://theswiftdev.com/swift-actors-tutorial-a-beginners-guide-to-thread-safe-concurrency) by [Tibor Bödecs](https://twitter.com/tiborbodecs)
 - [Modern Concurrency in Swift](https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/) by [Andy Ibanez](https://twitter.com/AndyIbanezK)
+- [Web API Client in Swift](https://kean.blog/post/new-api-client) by [Alex Grebenyuk](https://twitter.com/a_grebenyuk)
 
 ## Videos
 - [Swift 5.5: Async Await Operations (Xcode 13, iOS 15, 2021) - iOS for Beginners](https://youtu.be/_n6XnabuYO8) by iOS Academy
