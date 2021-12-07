@@ -1,6 +1,8 @@
 <p align="center">
     <img src=".github/cover.png" width=60%/>
-    A hand-curated list of Swift async/await resources
+</p>
+<p align="center">
+    <a>A hand-curated list of Swift async/await resources</a>
 </p>
 
 ## WWDC 2021
