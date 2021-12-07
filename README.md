@@ -1,5 +1,7 @@
-# Awesome Swift async/await
-A hand-curated list of Swift async/await resources
+<p align="center">
+    <img src=".github/cover.png" width=60%/>
+    A hand-curated list of Swift async/await resources
+</p>
 
 ## WWDC 2021
 - [Meet async/await in Swift](https://developer.apple.com/videos/play/wwdc2021-10132)
