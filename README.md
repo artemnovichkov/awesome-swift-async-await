@@ -23,7 +23,7 @@
 ## Articles
 - [Getting Started with async/await in SwiftUI](https://peterfriese.dev/swiftui-concurrency-essentials-part1) by [Peter Friese](https://twitter.com/peterfriese)
 - [async/await in SwiftUI](https://www.raywenderlich.com/25013447-async-await-in-swiftui) by [Audrey Tam](https://twitter.com/mataharimau)
-- [Connecting async/await to other Swift code](https://www.swiftbysundell.com/articles/connecting-async-await-with-other-swift-code/) by [John Sundell](https://twitter.com/johnsundell)
+- [Concurrency](https://www.swiftbysundell.com/discover/concurrency) by [John Sundell](https://twitter.com/johnsundell)
 - [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await) by [Antoine van der Lee](https://twitter.com/twannl)
 - [Swift actors tutorial - a beginner's guide to thread safe concurrency](https://theswiftdev.com/swift-actors-tutorial-a-beginners-guide-to-thread-safe-concurrency) by [Tibor Bödecs](https://twitter.com/tiborbodecs)
 - [Modern Concurrency in Swift](https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/) by [Andy Ibanez](https://twitter.com/AndyIbanezK)
