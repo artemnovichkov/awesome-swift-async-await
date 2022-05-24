@@ -33,7 +33,7 @@
 - [Swift 5.5: Async Await Operations (Xcode 13, iOS 15, 2021) - iOS for Beginners](https://youtu.be/_n6XnabuYO8) by iOS Academy
 - [How do you go from completionHandler to async / await? 🤔](https://youtu.be/9CI8O7iufDI) by [Vincent Pradeilles](https://twitter.com/v_pradeilles)
 - [Distributed Systems with Swift](https://youtu.be/7yu6mEq8R2Q) by [Konrad Malawski](https://twitter.com/ktosopl)
-- [Swift Concurrency Under the Hood - iOS Conf SG 2022]([https://youtu.be/7yu6mEq8R2Q](https://youtu.be/wp5vIVxABFk)) by [Marin Todorov](https://twitter.com/icanzilb)
+- [Swift Concurrency Under the Hood - iOS Conf SG 2022](https://youtu.be/wp5vIVxABFk)) by [Marin Todorov](https://twitter.com/icanzilb)
 
 ## Libraries
 - [Async Algorithms](https://github.com/apple/swift-async-algorithms) by Apple
