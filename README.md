@@ -5,7 +5,7 @@
     <a>A hand-curated list of Swift async/await resources</a>
 </p>
 
-## WWDC 2021
+## WWDC21
 - [Meet async/await in Swift](https://developer.apple.com/videos/play/wwdc2021-10132)
 - [Protect mutable state with Swift actors](https://developer.apple.com/videos/play/wwdc2021-10133)
 - [Explore structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021-10134)
@@ -15,6 +15,11 @@
 - [Use async/await with URLSession](https://developer.apple.com/videos/play/wwdc2021-10095)
 - [Bring Core Data concurrency to Swift and SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10017)
 - [Swift concurrency: Behind the scenes](https://developer.apple.com/videos/play/wwdc2021-10254)
+
+## WWDC22
+- [Meet Swift Async Algorithms](https://developer.apple.com/videos/play/wwdc2022/110355)
+- [Eliminate data races using Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110351)
+- [Meet distributed actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356)
 
 ## Books
 - [Modern Concurrency in Swift](https://www.raywenderlich.com/books/modern-concurrency-in-swift) by [Marin Todorov](https://twitter.com/icanzilb)
