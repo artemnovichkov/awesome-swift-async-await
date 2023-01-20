@@ -46,3 +46,4 @@
 - [Swift Distributed Actors](https://github.com/apple/swift-distributed-actors) by Apple
 - [AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) by [John Sundell](https://twitter.com/johnsundell)
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) by [John Sundell](https://twitter.com/johnsundell)
+- [TaskGroupsResultBuilder](https://github.com/AvdLee/TaskGroupsResultBuilder) by [Antoine van der Lee](https://twitter.com/twannl)
