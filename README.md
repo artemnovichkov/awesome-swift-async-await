@@ -45,6 +45,7 @@
 ## Libraries
 - [Async Algorithms](https://github.com/apple/swift-async-algorithms) by Apple
 - [Swift Distributed Actors](https://github.com/apple/swift-distributed-actors) by Apple
+- [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) by [Anton Heestand](https://twitter.com/heestand_xyz)
 - [AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) by [John Sundell](https://twitter.com/johnsundell)
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) by [John Sundell](https://twitter.com/johnsundell)
 - [TaskGroupsResultBuilder](https://github.com/AvdLee/TaskGroupsResultBuilder) by [Antoine van der Lee](https://twitter.com/twannl)
