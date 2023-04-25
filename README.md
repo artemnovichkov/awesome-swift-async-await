@@ -25,6 +25,7 @@
 - [Modern Concurrency in Swift](https://www.raywenderlich.com/books/modern-concurrency-in-swift) by [Marin Todorov](https://twitter.com/icanzilb)
 - [Swift Concurrency by Example](https://www.hackingwithswift.com/quick-start/concurrency) by [Paul Hudson](https://twitter.com/twostraws)
 - [Practical Swift Concurrency](https://practicalswiftconcurrency.com) by [Donny Wals](https://twitter.com/DonnyWals)
+- [Modern Concurrency on Apple Platforms](https://swiftasyncbook.com) by [Andy Ibanez](https://twitter.com/AndyIbanezK)
 
 ## Articles
 - [Getting Started with async/await in SwiftUI](https://peterfriese.dev/swiftui-concurrency-essentials-part1) by [Peter Friese](https://twitter.com/peterfriese)
