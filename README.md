@@ -21,6 +21,10 @@
 - [Eliminate data races using Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110351)
 - [Meet distributed actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356)
 
+## WWDC23
+- [Beyond the basics of structured concurrency](https://developer.apple.com/videos/play/wwdc2023/10170)
+- [Discover streamlined location updates](https://developer.apple.com/videos/play/wwdc2023/10180)
+
 ## Books
 - [Modern Concurrency in Swift](https://www.raywenderlich.com/books/modern-concurrency-in-swift) by [Marin Todorov](https://twitter.com/icanzilb)
 - [Swift Concurrency by Example](https://www.hackingwithswift.com/quick-start/concurrency) by [Paul Hudson](https://twitter.com/twostraws)
