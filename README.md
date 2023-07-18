@@ -42,7 +42,7 @@
 - [Iterating over web socket messages with async / await in Swift](https://www.donnywals.com/iterating-over-web-socket-messages-with-async-await-in-swift) by [Donny Wals](https://twitter.com/donnywals)
 
 ## Videos
-- [Concurrency](https://www.pointfree.co/collections/concurrency) by Point-Free
+- [Concurrency](https://www.pointfree.co/collections/concurrency) by [Point-Free](https://twitter.com/pointfreeco)
 - [Swift 5.5: Async Await Operations (Xcode 13, iOS 15, 2021) - iOS for Beginners](https://youtu.be/_n6XnabuYO8) by iOS Academy
 - [How do you go from completionHandler to async / await? 🤔](https://youtu.be/9CI8O7iufDI) by [Vincent Pradeilles](https://twitter.com/v_pradeilles)
 - [Distributed Systems with Swift](https://youtu.be/7yu6mEq8R2Q) by [Konrad Malawski](https://twitter.com/ktosopl)
@@ -56,3 +56,4 @@
 - [AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) by [John Sundell](https://twitter.com/johnsundell)
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) by [John Sundell](https://twitter.com/johnsundell)
 - [TaskGroupsResultBuilder](https://github.com/AvdLee/TaskGroupsResultBuilder) by [Antoine van der Lee](https://twitter.com/twannl)
+- [swift-concurrency-extras](https://github.com/pointfreeco/swift-concurrency-extras) by [Point-Free](https://twitter.com/pointfreeco)
