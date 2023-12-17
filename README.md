@@ -48,6 +48,9 @@
 - [Distributed Systems with Swift](https://youtu.be/7yu6mEq8R2Q) by [Konrad Malawski](https://twitter.com/ktosopl)
 - [Swift Concurrency Under the Hood - iOS Conf SG 2022](https://youtu.be/wp5vIVxABFk) by [Marin Todorov](https://twitter.com/icanzilb)
 - [Distributed actors и где они обитают](https://youtu.be/yvBG333wFmI) by [Eugene Antropov](https://www.linkedin.com/in/antigp)
+  
+## Courses
+- [Async/Await Fundamentals - A Beginner's Guide](https://azamsharp.teachable.com/p/async-await-fundamentals-a-beginners-guide) by [Mohammad Azam](https://twitter.com/azamsharp)
 
 ## Libraries
 - [Async Algorithms](https://github.com/apple/swift-async-algorithms) by Apple
