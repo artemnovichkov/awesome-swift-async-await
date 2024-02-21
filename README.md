@@ -30,6 +30,7 @@
 - [Swift Concurrency by Example](https://www.hackingwithswift.com/quick-start/concurrency) by [Paul Hudson](https://twitter.com/twostraws)
 - [Practical Swift Concurrency](https://practicalswiftconcurrency.com) by [Donny Wals](https://twitter.com/DonnyWals)
 - [Modern Concurrency on Apple Platforms](https://swiftasyncbook.com) by [Andy Ibanez](https://twitter.com/AndyIbanezK)
+- [The Curious Case of the Async Cafe.An Introduction to Modern Concurrency in Swift](https://pragprog.com/titles/d-dsasync/the-curious-case-of-the-async-cafe/) by [Daniel H Steinberg](https://twitter.com/dimsumthinking)
 
 ## Articles
 - [Getting Started with async/await in SwiftUI](https://peterfriese.dev/swiftui-concurrency-essentials-part1) by [Peter Friese](https://twitter.com/peterfriese)
