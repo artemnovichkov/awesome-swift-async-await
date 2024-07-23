@@ -41,6 +41,7 @@
 - [Modern Concurrency in Swift](https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/) by [Andy Ibanez](https://twitter.com/AndyIbanezK)
 - [Web API Client in Swift](https://kean.blog/post/new-api-client) by [Alex Grebenyuk](https://twitter.com/a_grebenyuk)
 - [Iterating over web socket messages with async / await in Swift](https://www.donnywals.com/iterating-over-web-socket-messages-with-async-await-in-swift) by [Donny Wals](https://twitter.com/donnywals)
+- [Async await in Swift: The Full Toolkit](https://www.emergetools.com/blog/posts/swift-async-await-the-full-toolkit) by [Jacob Bartlett](https://x.com/jacobs_handle)
 
 ## Videos
 - [Concurrency](https://www.pointfree.co/collections/concurrency) by [Point-Free](https://twitter.com/pointfreeco)
