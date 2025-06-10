@@ -25,6 +25,11 @@
 - [Beyond the basics of structured concurrency](https://developer.apple.com/videos/play/wwdc2023/10170)
 - [Discover streamlined location updates](https://developer.apple.com/videos/play/wwdc2023/10180)
 
+## WWDC25
+- [Explore concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2025/266)
+- [Embracing Swift concurrency](https://developer.apple.com/videos/play/wwdc2025/268)
+- [Code-along: Elevate an app with Swift concurrency](https://developer.apple.com/videos/play/wwdc2025/270)
+
 ## Books
 - [Modern Concurrency in Swift](https://www.raywenderlich.com/books/modern-concurrency-in-swift) by [Marin Todorov](https://twitter.com/icanzilb)
 - [Swift Concurrency by Example](https://www.hackingwithswift.com/quick-start/concurrency) by [Paul Hudson](https://twitter.com/twostraws)
