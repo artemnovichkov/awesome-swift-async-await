@@ -59,6 +59,7 @@
   
 ## Courses
 - [Async/Await Fundamentals - A Beginner's Guide](https://azamsharp.teachable.com/p/async-await-fundamentals-a-beginners-guide) by [Mohammad Azam](https://twitter.com/azamsharp)
+- [Swift Concurrency Course](https://www.avanderlee.com/swift-concurrency-course-swift-6-migration/) by [Antoine van der Lee](https://twitter.com/twannl)
 
 ## Libraries
 - [Async Algorithms](https://github.com/apple/swift-async-algorithms) by Apple
