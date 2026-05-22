@@ -60,6 +60,7 @@
 ## Courses
 - [Async/Await Fundamentals - A Beginner's Guide](https://azamsharp.teachable.com/p/async-await-fundamentals-a-beginners-guide) by [Mohammad Azam](https://twitter.com/azamsharp)
 - [Swift Concurrency Course](https://www.avanderlee.com/swift-concurrency-course-swift-6-migration/) by [Antoine van der Lee](https://twitter.com/twannl)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Libraries
 - [Async Algorithms](https://github.com/apple/swift-async-algorithms) by Apple
